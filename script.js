@@ -1,1 +1,1 @@
-let yourArray = ['sunny',26,true,'sam',35];
+let yourArray[] = ['pranav',33,true,'ram',35];
