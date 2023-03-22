@@ -1,1 +1,1 @@
-var yourArray = ['pranav',33,true,'ram',35];
+yourArray = ['pranav',33,true,'ram',35];
