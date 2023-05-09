@@ -1,1 +1,1 @@
-yourArray = ["pranav",33,true,"ram",35,"chalo"];
+let yourArray = [{string:"pranav"},{number:33},{boolean:true},{string2:"ram"},{number2:35}];
