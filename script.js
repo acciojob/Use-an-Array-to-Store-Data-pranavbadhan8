@@ -1,2 +1,2 @@
-let yourArray = new Array[5];
- yourArray = ["Hi Pranav how are you",878,true,14,7];
+
+let yourArray = ["Hi Pranav how are you",878,true,"Chalo guys",225,false];
